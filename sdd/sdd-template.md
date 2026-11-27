@@ -177,3 +177,13 @@
 | **SYS-05** | Выбор валюты счета (BYN/USD/EUR) | 40 | Junior Dev (12 у.е./ч) | 4 | 0.5 | 48 |
 | **MGMT** | Онбординг Junior и код-ревью PR | 10 | Lead/Middle (25 у.е./ч) | 4 | 0.5 | 100 |
 | **ИТОГО** | **Срок сдачи: 9.0 раб. дней (параллельно)** | — | **2 разработчика** | **104** | **9.0** | **2 080** |
+---
+
+## 6. Динамические проектные представления (UML, версия 0.3)
+
+* **Диаграмма вариантов использования:** ![Use Case](../images/use-case.png)
+* **Диаграмма активности:** ![Activity](../images/activity.png)
+* **Диаграмма состояний:** ![State Machine](../images/state-machine.png)
+* **Диаграмма последовательности:** ![Sequence](../images/sequence.png)
+
+Подробные спецификации вынесены в `docs/glossary.md`, `docs/additional-specs.md`, `docs/use-cases.md` и `diagrams/finance-tracker-ui.sysml`.
